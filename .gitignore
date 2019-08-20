@@ -1,0 +1,9 @@
+# Ignore bould folders and files
+__pycache__/
+build/
+dist/
+mycode.spec
+# Ignore env files
+python_env/
+# Ignore Jupiter Files
+Untitled.ipynb
